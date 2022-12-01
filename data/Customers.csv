@@ -1,4 +1,3 @@
-# !wget https://raw.githubusercontent.com/vicex99/IA-vendedor_ambulante_ciudades_madrid/main/ciudades_madrid.xlsx
 CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100)
 1,Male,19,15,39
 2,Male,21,15,81
